@@ -1,0 +1,10 @@
+colors
+=============
+Red
+Blue
+Green
+Yellow
+Orange
+Pink
+White
+Black
