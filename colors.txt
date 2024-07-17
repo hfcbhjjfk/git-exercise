@@ -8,3 +8,8 @@ Orange
 Pink
 White
 Black
+Violet
+Purple
+Magenta
+Lavendar
+Indigo
